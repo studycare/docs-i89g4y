@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-13kyph.privatetalks.online/sitemap.xml
